@@ -1,0 +1,103 @@
+@import '~/public/sass/palitra.scss';
+
+//********************
+//* color palette
+//********************
+
+// Main
+$main-bg: $color-1;
+$main-font-color: $color-5;
+//********************
+
+// Section
+$section-bg: $color-2;
+$section-border: $color-13;
+//********************
+
+// Left sidebar
+$left-sidebar-bg: $color-3;
+$left-sidebar-font-color: $color-6;
+//********************
+
+// Buttons
+$btn-color: $color-6;
+$btn-bg: $color-2;
+$btn-border-color: $color-14;
+
+$btn-color-hover: $color-6;
+$btn-bg-hover: $color-8;
+
+$btn-color-active: $color-6;
+$btn-bg-active: $color-21;
+
+$btn-delete-color: $color-22;
+$btn-delete-bg: $color-6;
+$btn-delete-border: $color-22;
+
+$btn-delete-hover-color: $color-22;
+$btn-delete-hover-bg: $color-23;
+$btn-delete-hover-border: $color-22;
+
+$btn-delete-active-color: $color-6;
+$btn-delete-active-bg: $color-22;
+$btn-delete-active-border: $color-22;
+
+$btn-save-color: $color-25;
+$btn-save-bg: $color-6;
+$btn-save-border: $color-25;
+
+$btn-save-hover-color: $color-25;
+$btn-save-hover-bg: $color-26;
+$btn-save-hover-border: $color-25;
+
+$btn-save-active-color: $color-6;
+$btn-save-active-bg: $color-25;
+$btn-save-active-border: $color-25;
+
+$btn-text-disabled-bg: $color-52;
+$btn-text-disabled-color: $color-52;
+$btn-text-disabled-border-color: $color-45;
+//********************
+
+// Range-slider
+$slider-base-bg: $color-17;
+
+$slider-handle-bg: $color-3;
+$slider-handle-bg-focus: rgba(102, 102, 102, 0.4);
+$slider-handle-ring-color: #10B98130;
+
+$slider-tooltip-bg: $color-17;
+$slider-tooltip-bg-disabled: #9CA3AF;
+$slider-tooltip-color: $color-3;
+//********************
+
+//Icons
+$icon-fill: $color-10;
+$icon-width: 20px;
+$icon-height: 20px;
+//********************
+
+// Scrollbars 
+$foreground-color: $color-7;
+$background-color: $transparent;
+//********************
+
+// inputs
+$input-label-color: $color-15;
+$input-bg: $color-2;
+$input-border-color: $color-14;
+$placeholder-color: $color-16;
+//********************
+
+// Tables
+$table-border-color: $color-18;
+$table-thead-color: $color-15;
+$table-tr-th-color: $color-16;
+//********************
+
+// Pagination
+$page-color: $color-5;
+$page-current-color: $color-20;
+$page-bg: $color-10;
+$page-current-bg: $color-19;
+//********************

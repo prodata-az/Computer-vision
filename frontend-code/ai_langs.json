@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/images/icons/az.png",
+    "name": "Azerbaijan",
+    "name_mini": "AZ",
+    "translate_name": "az"
+  },
+  {
+    "img": "/images/icons/en.png",
+    "name": "English",
+    "name_mini": "EN",
+    "translate_name": "en"
+  },
+  {
+    "img": "/images/icons/he.png",
+    "name": "Hebrew",
+    "name_mini": "HE",
+    "translate_name": "he"
+  }
+]

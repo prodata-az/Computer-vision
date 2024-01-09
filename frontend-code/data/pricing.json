@@ -1,0 +1,45 @@
+[
+    {
+        "plan": "basic",
+        "icon": "/images/icons/mitech-pricing-box-icon-01-90x90.png",
+        "price": 19,
+        "currency": "$",
+        "period": "/mon",
+        "isPopular": false,
+        "active": false,
+        "lists": [
+            "03 projects",
+            "Quality & Customer Experience",
+            "Try for free, forever!"
+        ]
+    },
+    {
+        "plan": "Professional",
+        "icon": "/images/icons/mitech-pricing-box-icon-02-88x88.png",
+        "price": 99,
+        "currency": "$",
+        "period": "/mon",
+        "isPopular": true,
+        "active": true,
+        "lists": [
+            "Unlimited project",
+            "Power And Predictive Dialing",
+            "Quality & Customer Experience",
+            "24/7 phone and email support"
+        ]
+    },
+    {
+        "plan": "Advanced",
+        "icon": "/images/icons/mitech-pricing-box-icon-03-90x90.png",
+        "price": 49,
+        "currency": "$",
+        "period": "/mon",
+        "isPopular": false,
+        "active": false,
+        "lists": [
+            "10 projects",
+            "Power And Predictive Dialing",
+            "Quality & Customer Experience"
+        ]
+    }
+]

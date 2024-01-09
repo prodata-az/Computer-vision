@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img": "~/public/images/icons/en.png",
+    "name": "ENG",
+    "name_mini": "EN",
+    "translate_name": "en"
+  },
+  {
+    "id": 2,
+    "img": "~/public/images/icons/az.png",
+    "name": "AZE",
+    "name_mini": "AZ",
+    "translate_name": "az"
+  },
+  {
+    "id": 3,
+    "img": "~/public/images/icons/ru.png",
+    "name": "RUS",
+    "name_mini": "RU",
+    "translate_name": "ru"
+  }
+]

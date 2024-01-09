@@ -1,0 +1,92 @@
+{
+    "footerAboutData": {
+        "logo": "/images/logo/dark-logo-160x48.png",
+        "address": "58 Howard Street #2 San Francisco, CA 941",
+        "telephone": "0123456789",
+        "email": "contact@example.com",
+        "web": "www.example.com"
+    },
+    "footerWidgetTitleOne": "IT Services",
+    "navListOne": [
+        {
+            "navTitle": "Managed IT",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "IT Support",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "IT Consultancy",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Cloud Computing",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Cyber Security",
+            "navUrl": "/" 
+        }
+    ],
+    "footerWidgetTitleTwo": "Quick Links",
+    "navListTwo": [
+        {
+            "navTitle": "Pick up locations",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Terms of Payment",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Privacy Policy",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Where to Find Us",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Cyber Security",
+            "navUrl": "/" 
+        }
+    ],
+    "footerWidgetTitleThree": "Support",
+    "navListThree": [
+        {
+            "navTitle": "Forum Support",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Help & FAQ",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Contact Us",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Pricing and plans",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Cookies Policy",
+            "navUrl": "/" 
+        }
+    ],
+    "footerAppData": {
+        "footerWidgetTitleFour": "Apps Store",
+        "android": "/images/icons/google-play.jpg",
+        "androidUrl": "https://www.android.com/",
+        "apple": "/images/icons/apple-store.jpg",
+        "appleUrl": "https://www.apple.com/"
+    },
+    "footerBottom": {
+        "copyright": "© 2023 Mitech. All Rights Reserved.",
+        "fbUrl": "https://www.facebook.com",
+        "twitterUrl": "https://twitter.com",
+        "instagramUrl": "https://www.instagram.com",
+        "linkedinUrl": "https://www.linkedin.com"
+    }
+}

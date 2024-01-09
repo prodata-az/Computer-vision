@@ -1,0 +1,36 @@
+{
+    "logoList": [
+        {
+            "image": "/images/brand/client-logo-01.png",
+            "hoverImage": "/images/brand/client-logo-01-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-02.png",
+            "hoverImage": "/images/brand/client-logo-02-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-03.png",
+            "hoverImage": "/images/brand/client-logo-03-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-04.png",
+            "hoverImage": "/images/brand/client-logo-04-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-05.png",
+            "hoverImage": "/images/brand/client-logo-05-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-06.png",
+            "hoverImage": "/images/brand/client-logo-06-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-07.png",
+            "hoverImage": "/images/brand/client-logo-07-hover.png"
+        },
+        {
+            "image": "/images/brand/client-logo-08.png",
+            "hoverImage": "/images/brand/client-logo-08-hover.png"
+        }
+    ]
+}

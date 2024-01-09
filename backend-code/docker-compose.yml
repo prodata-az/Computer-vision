@@ -1,0 +1,88 @@
+version: '3.8'
+services:
+
+  #PHP Service
+  cv_backend:
+    user: "1002:33"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cloudsigma.com/php
+    container_name: cv_backend
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: cv_backend
+      SERVICE_TAGS: dev
+      UPLOAD_LIMIT: 64M
+    working_dir: /var/www/html/
+    volumes:
+      - ./:/var/www/html/
+      - ./php/www.conf:/usr/local/etc/php-fpm.d/www.conf
+      - ./php/laravel.ini:/usr/local/etc/php/conf.d/laravel.ini
+    ports:
+      - "9040:9000"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'  # Limit to 50% of one CPU core
+          memory: '512M'  # Limit to 512 megabytes of RAM
+    networks:
+      - cv_app-network
+
+  #NUXT JS
+  cv_frontend:
+    stdin_open: true
+    container_name: cv_frontend
+    build:
+      context: ../frontend-code
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    command:
+      "npm run dev"
+      # "node .output/server/index.mjs"
+    volumes:
+      - /app/node_modules
+      - ../frontend-code:/app
+      - ../frontend-code:/var/www/html/
+    ports:
+      - "3040:3000"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'  # Limit to 50% of one CPU core
+          memory: '512M'  # Limit to 512 megabytes of RAM
+    networks:
+      - cv_app-network
+
+  #Postgres
+  cv_postgres:
+    image: postgres:16.0-alpine
+    container_name: cv_postgres
+    build:
+      context: ./PostgreSQL
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "5434:5432"
+    volumes:
+      - /prodatastorage/cv_control_panel/postgres:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_DATABASE}
+      POSTGRES_HOST_AUTH_METHOD: "trust"
+    deploy:
+      resources:
+        limits:
+          cpus: '1'  # Limit to 50% of one CPU core
+          memory: '1G'  # Limit to 512 megabytes of RAM
+    networks:
+      - cv_app-network
+
+#Docker Networks
+networks:
+  cv_app-network:
+    driver: bridge

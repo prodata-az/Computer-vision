@@ -1,0 +1,24 @@
+@import '~/public/sass/variables.scss';
+
+@mixin scrollbars(
+  $size: 10px,
+  $borderRadius: 10px,
+) {
+  // для Chrome и Safari
+  &::-webkit-scrollbar {
+    width: $size;
+    height: $size;
+    border-radius: $borderRadius;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: $foreground-color;
+    border-radius: $borderRadius;
+  }
+  &::-webkit-scrollbar-track {
+    background: $background-color;
+    border-radius: $borderRadius;
+  }
+  // по стандартам (Firefox)
+  scrollbar-color: $foreground-color $background-color;
+  scrollbar-width: $size;
+}

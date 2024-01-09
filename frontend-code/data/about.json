@@ -1,0 +1,77 @@
+{
+    "aboutCompany": {
+        "sectionTitle": "We’ve been thriving in <span>38 years</span>",
+        "sectionSubTitle": "Our company",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it."
+    },
+    "aboutCompanyTwo": {
+        "sectionTitle": "We run all kinds of IT services that <br> vow your <span> success</span>",
+        "sectionSubTitle": "Our company",
+        "heading": "Years’ Experience in IT",
+        "headingMarkText": "38",
+        "subHeading": "More About Our Success Stories",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.",
+        "underHeading": "Challenges are just opportunities in disguise.",
+        "linkText": "Take the challenge!"
+    },
+    "aboutItems": [
+        {
+            "icon": "/images/icons/mitech-box-image-style-01-image-02-100x108.png",
+            "heading": "What we can do?",
+            "desc": "We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it."
+        },
+        {
+            "icon": "/images/icons/mitech-box-image-style-01-image-01-100x108.png",
+            "heading": "Become our partners?",
+            "desc": "Our preventive and progressive approach will help you take the lead while addressing possible threats in managing data."
+        },
+        {
+            "icon": "/images/icons/mitech-box-image-style-01-image-06-100x108.png",
+            "heading": "Need a hand?",
+            "desc": "Our support team is available 24/7 a day, 7 days a week and can get ready for solving any of your situational rising problems."
+        }
+    ],
+    "aboutDelivery": {
+        "sectionTitle": "We excel in delivering <br> optimal solutions.",
+        "deliveryItems": [
+            {
+                "title": "Warranty Management IT",
+                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+            },
+            {
+                "title": "Product Engineering & Services",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+            },
+            {
+                "title": "Quality Control System",
+                "desc": "It's more than a responsibility but a guarantee from us to gain customer trust with highly reliable quality control system."
+            },
+            {
+                "title": "Infrastructure Integration Technology",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "title": "Highly Professional Staffs",
+                "desc": "Having obtained the official & formal training in IT technology and technical fields, our staffs know more than what they show."
+            },
+            {
+                "title": "Information Security Management",
+                "desc": "Information security has been a rising issue lately due to a series of scandals from big companies, rest assured, we're here."
+            }
+        ]
+    },
+    "items": [
+        {
+            "no": "01",
+            "title": "How we can help your business?"
+        },
+        {
+            "no": "02",
+            "title": "Why become our partner?"
+        },
+        {
+            "no": "03",
+            "title": "What are the best of Mitech?"
+        }
+    ]
+}

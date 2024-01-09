@@ -1,0 +1,1227 @@
+{
+  "main_page_edit": {
+    "1": "Main page edit",
+    "2": "Ana səhifənin redaktəsi",
+    "3": "Редактирование главной страницы"
+  },
+  "main_title": {
+    "1": "Main title",
+    "2": "Əsas başlıq",
+    "3": "Главный заголовок"
+  },
+  "main_desc": {
+    "1": "Main description",
+    "2": "Əsas təsvir",
+    "3": "Главное описание"
+  },
+  "about_title": {
+    "1": "About title",
+    "2": "Haqqımızda başlıq",
+    "3": "Заголовок О нас"
+  },
+  "about_desc": {
+    "1": "About description",
+    "2": "Haqqımızda təsvir",
+    "3": "Описание О нас"
+  },
+  "replace_file": {
+    "1": "Replace file",
+    "2": "Faylı dəyiş",
+    "3": "Заменить файл"
+  },
+  "activity_title": {
+    "1": "Activity title",
+    "2": "Fəaliyyət başlıq",
+    "3": "Деятельность О нас"
+  },
+  "save": {
+    "1": "Save",
+    "2": "Yadda saxla",
+    "3": "Сохранить"
+  },
+  "saved": {
+    "1": "Saved",
+    "2": "Yadda saxlanıldı",
+    "3": "Сохранено"
+  },
+  "pending": {
+    "1": "Pending",
+    "2": "Gözlənilir",
+    "3": "В ожидании"
+  },
+  "this_field_is_required": {
+    "1": "This field is required",
+    "2": "Bu xananın doldurulması vacibdir",
+    "3": "Это поле обязательное для заполнения"
+  },
+  "an_error_has_occured": {
+    "1": "An error has occured",
+    "2": "Xəta baş verdi",
+    "3": "Произошла ошибка"
+  },
+  "text_content": {
+    "1": "Text content",
+    "2": "Mətn kontenti",
+    "3": "Текстовый контент"
+  },
+  "main_page": {
+    "1": "Main page",
+    "2": "Əsas səhifə",
+    "3": "Главная страница"
+  },
+  "blocks": {
+    "1": "Blocks",
+    "2": "Bloklar",
+    "3": "Блоки"
+  },
+  "translated": {
+    "1": "Translated",
+    "2": "Tərcümə olundu",
+    "3": "Переведено"
+  },
+  "google_translate": {
+    "1": "Google translate",
+    "2": "Google tərcümə",
+    "3": "Гугл переводчик"
+  },
+  "add_new_model": {
+    "1": "Add new model",
+    "2": "Yeni model əlavə et",
+    "3": "Добавить новую модель"
+  },
+  "add_new_label": {
+    "1": "Add new label",
+    "2": "Yeni teq əlavə et",
+    "3": "Добавить новую метку"
+  },
+  "title": {
+    "1": "Title",
+    "2": "Ad",
+    "3": "Название"
+  },
+  "desc": {
+    "1": "Description",
+    "2": "Təsvir",
+    "3": "Описание"
+  },
+  "add": {
+    "1": "Add",
+    "2": "Əlavə et",
+    "3": "Добавить"
+  },
+  "icon": {
+    "1": "Icon",
+    "2": "Şəkil",
+    "3": "Иконка"
+  },
+  "list": {
+    "1": "List",
+    "2": "Siyahı",
+    "3": "Список"
+  },
+  "edit": {
+    "1": "Edit",
+    "2": "Redaktə",
+    "3": "Редактировать"
+  },
+  "delete": {
+    "1": "Delete",
+    "2": "Silmək",
+    "3": "Удалить"
+  },
+  "status": {
+    "1": "Status",
+    "2": "Status",
+    "3": "Статус"
+  },
+  "added": {
+    "1": "Added",
+    "2": "Əlavə edildi",
+    "3": "Добавлено"
+  },
+  "deleted": {
+    "1": "Deleted",
+    "2": "Silindi",
+    "3": "Удалено"
+  },
+  "activated": {
+    "1": "Activated",
+    "2": "Aktivləşdirildi",
+    "3": "Активировано"
+  },
+  "deactivated": {
+    "1": "Deactivated",
+    "2": "Deaktivləşdirildi",
+    "3": "Деактивировано"
+  },
+  "activate": {
+    "1": "Activate",
+    "2": "Aktiv et",
+    "3": "Активируй"
+  },
+  "deactivate": {
+    "1": "Deactivate",
+    "2": "Deaktiv et",
+    "3": "Деактивируй"
+  },
+  "deleting": {
+    "1": "Deleting",
+    "2": "Silinmə",
+    "3": "Удаление"
+  },
+  "are_you_sure_to_delete": {
+    "1": "Are you sure you want to delete",
+    "2": "Silmək istədiyinizə əminsiniz",
+    "3": "Уверены что хотите удалить"
+  },
+  "cancel": {
+    "1": "Cancel",
+    "2": "İmtina",
+    "3": "Отмена"
+  },
+  "do_delete": {
+    "1": "Delete",
+    "2": "Sil",
+    "3": "Удали"
+  },
+  "projects_page": {
+    "1": "Projects page",
+    "2": "Layihələr səhifəsi",
+    "3": "Страница проектов"
+  },
+  "projects": {
+    "1": "Projects",
+    "2": "Layihələr",
+    "3": "Проекты"
+  },
+  "companies": {
+    "1": "Companies",
+    "2": "Şirkətlər",
+    "3": "Компании"
+  },
+  "logo": {
+    "1": "Logo",
+    "2": "Loqo",
+    "3": "Лого"
+  },
+  "logo_hover": {
+    "1": "Logo (Hovered)",
+    "2": "Loqo (Hovered)",
+    "3": "Лого (Hovered)"
+  },
+  "name": {
+    "1": "Name",
+    "2": "Ad",
+    "3": "Название"
+  },
+  "name_of_model": {
+    "1": "Name of model",
+    "2": "Modelin adı",
+    "3": "Название модели"
+  },
+  "surname": {
+    "1": "Surname",
+    "2": "Soyad",
+    "3": "Фамилия"
+  },
+  "domain": {
+    "1": "Domain",
+    "2": "Domen",
+    "3": "Домен"
+  },
+  "changed": {
+    "1": "Changed",
+    "2": "Dəyişdirildi",
+    "3": "Изменено"
+  },
+  "change": {
+    "1": "Change",
+    "2": "Dəyişdirmək",
+    "3": "Изменить"
+  },
+  "templates": {
+    "1": "Templates",
+    "2": "Şablonlar",
+    "3": "Шаблоны"
+  },
+  "selected": {
+    "1": "Selected",
+    "2": "Seçildi",
+    "3": "Выбрано"
+  },
+  "select": {
+    "1": "Select",
+    "2": "Seç",
+    "3": "Выбрать"
+  },
+  "introduction": {
+    "1": "Introduction",
+    "2": "Giriş",
+    "3": "Введение"
+  },
+  "main_text": {
+    "1": "Main text",
+    "2": "Əsas mətn",
+    "3": "Главный текст"
+  },
+  "mini_desc": {
+    "1": "Mini description",
+    "2": "Qısa təsvir",
+    "3": "Краткое описание"
+  },
+  "image": {
+    "1": "Image",
+    "2": "Şəkil",
+    "3": "Картинка"
+  },
+  "partners": {
+    "1": "Partners",
+    "2": "Partnyorlar",
+    "3": "Партнеры"
+  },
+  "our_offers": {
+    "1": "Our offers",
+    "2": "Bizim təkliflərimiz",
+    "3": "Наши предложения"
+  },
+  "new_our_offer": {
+    "1": "New our offer",
+    "2": "Yeni bizim təklif",
+    "3": "Новое наше предложение"
+  },
+  "our_offers_list": {
+    "1": "Our offers list",
+    "2": "Bizim təkliflərimiz siyahısı",
+    "3": "Список наших предложений"
+  },
+  "main_image": {
+    "1": "Main image",
+    "2": "Əsas şəkil",
+    "3": "Главное фото"
+  },
+  "brief_desc": {
+    "1": "Brief description",
+    "2": "Qısa təsvir",
+    "3": "Краткое описание"
+  },
+  "html_part_is_empty": {
+    "1": "Html part is empty",
+    "2": "Html hissəsi boşdu",
+    "3": "Часть с HTML пустая"
+  },
+  "page_first": {
+    "1": "First",
+    "2": "İlk",
+    "3": "Начало"
+  },
+  "page_last": {
+    "1": "Last",
+    "2": "Son",
+    "3": "Конец"
+  },
+  "settings": {
+    "1": "Settings",
+    "2": "Tənzimləmələr",
+    "3": "Настройки"
+  },
+  "other": {
+    "1": "Other",
+    "2": "Digərlər",
+    "3": "Другие"
+  },
+  "working_process": {
+    "1": "Working process",
+    "2": "İş prosesi",
+    "3": "Рабочий процесс"
+  },
+  "main": {
+    "1": "Main",
+    "2": "Əsas",
+    "3": "Главный"
+  },
+  "items": {
+    "1": "Items",
+    "2": "Punktlar",
+    "3": "Пункты"
+  },
+  "why_choose_us": {
+    "1": "Why choose us",
+    "2": "Niyə biz",
+    "3": "Почему мы"
+  },
+  "photo_slider": {
+    "1": "Photo slider",
+    "2": "Foto slayder",
+    "3": "Фото слайдер"
+  },
+  "team_members": {
+    "1": "Team members",
+    "2": "Komanda",
+    "3": "Команда"
+  },
+  "position": {
+    "1": "Position",
+    "2": "Vəzifə",
+    "3": "Должность"
+  },
+  "question": {
+    "1": "Question",
+    "2": "Sual",
+    "3": "Вопрос"
+  },
+  "answer": {
+    "1": "Answer",
+    "2": "Cavab",
+    "3": "Ответ"
+  },
+  "faq": {
+    "1": "FAQ",
+    "2": "FAQ",
+    "3": "FAQ"
+  },
+  "reviews": {
+    "1": "Reviews",
+    "2": "Rəylər",
+    "3": "Отзывы"
+  },
+  "review": {
+    "1": "Review",
+    "2": "Rəy",
+    "3": "Отзыв"
+  },
+  "fullname": {
+    "1": "Full name",
+    "2": "Ad Soyad",
+    "3": "Имя Фамилия"
+  },
+  "blog": {
+    "1": "Blog",
+    "2": "Bloq",
+    "3": "Блог"
+  },
+  "new_blog_item": {
+    "1": "New blog",
+    "2": "Yeni bloq",
+    "3": "Новый блог"
+  },
+  "blog_items_list": {
+    "1": "Blog items list",
+    "2": "Bloq siyahısı",
+    "3": "Список блогов"
+  },
+  "author": {
+    "1": "Author",
+    "2": "Müəllif",
+    "3": "Автор"
+  },
+  "jan": {
+    "1": "Jan",
+    "2": "Yan",
+    "3": "Янв"
+  },
+  "feb": {
+    "1": "Feb",
+    "2": "Fev",
+    "3": "Фев"
+  },
+  "mar": {
+    "1": "Mar",
+    "2": "Mar",
+    "3": "Март"
+  },
+  "apr": {
+    "1": "Apr",
+    "2": "Apr",
+    "3": "Апр"
+  },
+  "may_month": {
+    "1": "May",
+    "2": "May",
+    "3": "Май"
+  },
+  "june": {
+    "1": "Jun",
+    "2": "İyun",
+    "3": "Июнь"
+  },
+  "july": {
+    "1": "Jul",
+    "2": "İyul",
+    "3": "Июль"
+  },
+  "aug": {
+    "1": "Aug",
+    "2": "Avq",
+    "3": "Авг"
+  },
+  "sep": {
+    "1": "Sep",
+    "2": "Sen",
+    "3": "Сен"
+  },
+  "oct": {
+    "1": "Oct",
+    "2": "Okt",
+    "3": "Окт"
+  },
+  "nov": {
+    "1": "Nov",
+    "2": "Noy",
+    "3": "Ноя"
+  },
+  "dec": {
+    "1": "Dec",
+    "2": "Dek",
+    "3": "Дек"
+  },
+  "about_introduction": {
+    "1": "About Introduction",
+    "2": "Haqqımızda Giriş",
+    "3": "О нас Введение"
+  },
+  "mini_title": {
+    "1": "Mini title",
+    "2": "Qısa başlıq",
+    "3": "Короткое название"
+  },
+  "empower_your_business": {
+    "1": "Empower your business",
+    "2": "Biznesinizi gücləndirin",
+    "3": "Расширить возможности вашего бизнеса"
+  },
+  "call_us": {
+    "1": "Call Us",
+    "2": "Zəng et",
+    "3": "Звоните"
+  },
+  "about": {
+    "1": "About us",
+    "2": "Haqqımızda",
+    "3": "О нас"
+  },
+  "solutions_services": {
+    "1": "Solutions & Services",
+    "2": "Həllər & Xidmətlər",
+    "3": "Решения & Услуги"
+  },
+  "latest_posts": {
+    "1": "Latest posts",
+    "2": "Son postlar",
+    "3": "Последние посты"
+  },
+  "contact": {
+    "1": "Contact us",
+    "2": "Əlaqə",
+    "3": "Контакты"
+  },
+  "request_info": {
+    "1": "Request info",
+    "2": "Məlumat al",
+    "3": "Запросить информацию"
+  },
+  "our_partners": {
+    "1": "Our partners",
+    "2": "Partnyorlarımız",
+    "3": "Наши партнеры"
+  },
+  "details": {
+    "1": "Details",
+    "2": "Detallar",
+    "3": "Детали"
+  },
+  "show_all": {
+    "1": "Show all",
+    "2": "Hamısını göstər",
+    "3": "Показать все"
+  },
+  "all_services": {
+    "1": "All services",
+    "2": "Bütün xidmətlər",
+    "3": "Все услуги"
+  },
+  "information": {
+    "1": "Information",
+    "2": "İnformasiya",
+    "3": "Информация"
+  },
+  "our_team": {
+    "1": "Our team",
+    "2": "Komandamız",
+    "3": "Наша команда"
+  },
+  "follow_us": {
+    "1": "Follow us",
+    "2": "Bizi izləyin",
+    "3": "Подпишитесь"
+  },
+  "follow_our_linkedin": {
+    "1": "Stay in touch! Subscribe to our LinkedIn",
+    "2": "Əlaqədə qal! LinkedIn-imizə abunə olun",
+    "3": "Оставайтесь на связи! Подпишитесь на наш LinkedIn"
+  },
+  "boost_your_business": {
+    "1": "Boost your business with us",
+    "2": "Biznesinizi bizimlə inkişaf etdirin",
+    "3": "Развивайте свой бизнес вместе с нами"
+  },
+  "post_details": {
+    "1": "Post details",
+    "2": "Post detalları",
+    "3": "Детали поста"
+  },
+  "cell": {
+    "1": "Cell",
+    "2": "Telefon",
+    "3": "Телефон"
+  },
+  "next": {
+    "1": "Next",
+    "2": "Sonraki",
+    "3": "Следующий"
+  },
+  "previous": {
+    "1": "Previous",
+    "2": "Əvvəlki",
+    "3": "Предыдущий"
+  },
+  "read_more": {
+    "1": "Read more",
+    "2": "Daha çoxunu oxu",
+    "3": "Читать далее"
+  },
+  "isReady": {
+    "1": "It's ready!",
+    "2": "Hazırdır!",
+    "3": "Готово!"
+  },
+  "get_in_touch": {
+    "1": "Get In Touch",
+    "2": "Əlaqədə olmaq",
+    "3": "Быть на связи"
+  },
+  "phone": {
+    "1": "Phone",
+    "2": "Telefon",
+    "3": "Телефон"
+  },
+  "email": {
+    "1": "Email",
+    "2": "E-poçt",
+    "3": "Э-почта"
+  },
+  "password": {
+    "1": "Password",
+    "2": "Şifrə",
+    "3": "Пароль"
+  },
+  "confirmPassword": {
+    "1": "Confirm password",
+    "2": "Şifrəni təsdiqləyin",
+    "3": "Подтвердите пароль"
+  },
+  "dontHaveAccount": {
+    "1": "Don`t have an account?",
+    "2": "Hesabınız yoxdur?",
+    "3": "У вас нет аккаунта?"
+  },
+  "alreadyHaveAccount": {
+    "1": "Already have an account?",
+    "2": "Artıq hesabınız var?",
+    "3": "У вас уже есть аккаунт?"
+  },
+  "succesRegister": {
+    "1": "You have successfully registered",
+    "2": "Uğurla qeydiyyatdan keçdiniz",
+    "3": "Вы успешно зарегистрировались"
+  },
+  "succesLogin": {
+    "1": "Login successfully",
+    "2": "Uğurla giriş edildi",
+    "3": "Вход успешно выполнен"
+  },
+  "register": {
+    "1": "Register",
+    "2": "Qeydiyyat",
+    "3": "Регистрация"
+  },
+  "address": {
+    "1": "Address",
+    "2": "Ünvan",
+    "3": "Адрес"
+  },
+  "send": {
+    "1": "Send",
+    "2": "Göndər",
+    "3": "Отправить"
+  },
+  "send_us_message": {
+    "1": "Send Us A Message",
+    "2": "Bizə mesaj göndər",
+    "3": "Отправь нам сообщение"
+  },
+  "enter_your_name": {
+    "1": "Enter your name",
+    "2": "Adınızı daxil edin",
+    "3": "Добавьте свое имя"
+  },
+  "enter_your_email": {
+    "1": "Enter your email",
+    "2": "E-poçtunuzu daxil edin",
+    "3": "Добавьте свой мейл"
+  },
+  "enter_your_subject": {
+    "1": "Enter your subject",
+    "2": "Başlıq daxil edin",
+    "3": "Добавьте заглавие"
+  },
+  "type_your_question": {
+    "1": "Type your question",
+    "2": "Sualınızı yazın",
+    "3": "Напишите ваш вопрос"
+  },
+  "submit_comment": {
+    "1": "Submit comment",
+    "2": "Göndər",
+    "3": "Отправь"
+  },
+  "label": {
+    "1": "Label",
+    "2": "Teq",
+    "3": "Ярлык"
+  },
+  "successfully_sent": {
+    "1": "Successfully sent",
+    "2": "Uğurla göndərildi",
+    "3": "Успешно отправлено"
+  },
+  "successfully_deleted": {
+    "1": "Successfully deleted!",
+    "2": "Uğurla silindi!",
+    "3": "Успешно удалено!"
+  },
+  "success": {
+    "1": "Success",
+    "2": "Uğur",
+    "3": "Успешно"
+  },
+  "linkedin_posts": {
+    "1": "Linkedin posts",
+    "2": "Linkedin postları",
+    "3": "Посты линкедин"
+  },
+  "url": {
+    "1": "Url",
+    "2": "Url",
+    "3": "Url"
+  },
+  "home": {
+    "1": "Home",
+    "2": "Ana səhifə",
+    "3": "Главная"
+  },
+  "us_on_social_media": {
+    "1": "Us on Social Media",
+    "2": "Biz Sosial Mediada",
+    "3": "Мы в Социальной Сети"
+  },
+  "latest_blogs": {
+    "1": "Latest Blogs",
+    "2": "Son Bloqlar",
+    "3": "Последние Блоги"
+  },
+  "schedule_a_meeting": {
+    "1": "Schedule a meeting",
+    "2": "Görüş təyin et",
+    "3": "Назначь встречу"
+  },
+  "website_service": {
+    "1": "Website as a Service",
+    "2": "Website as a Service",
+    "3": "Website as a Service"
+  },
+  "cp_of_cps": {
+    "1": "CP of Control Panels",
+    "2": "CP of Control Panels",
+    "3": "CP of Control Panels"
+  },
+  "panels": {
+    "1": "Panels",
+    "2": "Panels",
+    "3": "Panels"
+  },
+  "sensors": {
+    "1": "Sensors",
+    "2": "Sensors",
+    "3": "Sensors"
+  },
+  "user_management": {
+    "1": "User management",
+    "2": "User management",
+    "3": "User management"
+  },
+  "users": {
+    "1": "Users",
+    "2": "Users",
+    "3": "Users"
+  },
+  "roles": {
+    "1": "Roles",
+    "2": "Roles",
+    "3": "Roles"
+  },
+  "permissions": {
+    "1": "Permissions",
+    "2": "Permissions",
+    "3": "Permissions"
+  },
+  "dashboards": {
+    "1": "Dashboards",
+    "2": "Dashboards",
+    "3": "Dashboards"
+  },
+  "websites": {
+    "1": "Websites",
+    "2": "Websites",
+    "3": "Websites"
+  },
+  "projects_list": {
+    "1": "Projects list",
+    "2": "Layihələr siyahısı",
+    "3": "Список проектов"
+  },
+  "category": {
+    "1": "Category",
+    "2": "Kateqoriya",
+    "3": "Категория"
+  },
+  "new_project": {
+    "1": "New project",
+    "2": "Yeni proyekt",
+    "3": "Новый проект"
+  },
+  "partners_list": {
+    "1": "Partners list",
+    "2": "Partnyorlar siyahısı",
+    "3": "Список партнеров"
+  },
+  "new_teacher": {
+    "1": "New teacher",
+    "2": "Yeni müəllim",
+    "3": "Новый преподователь"
+  },
+  "teachers_list": {
+    "1": "Teachers list",
+    "2": "Müəllimlər siyahısı",
+    "3": "Список преподователей"
+  },
+  "teachers": {
+    "1": "Teachers",
+    "2": "Müəllimlər",
+    "3": "Преподователи"
+  },
+  "alumni": {
+    "1": "Alumni",
+    "2": "Məzunlar",
+    "3": "Выпускники"
+  },
+  "alumni_list": {
+    "1": "Alumni list",
+    "2": "Məzunlar siyahısı",
+    "3": "Список выпускников"
+  },
+  "certificate": {
+    "1": "Certificate",
+    "2": "Sertifikat",
+    "3": "Сертификат"
+  },
+  "certificate_number": {
+    "1": "Certificate number",
+    "2": "Sertifikat nömrəsi",
+    "3": "Номер сертификата"
+  },
+  "certificate_type": {
+    "1": "Certificate type",
+    "2": "Sertifikat növü",
+    "3": "Тип сертификата"
+  },
+  "search": {
+    "1": "Search",
+    "2": "Axtar",
+    "3": "Поиск"
+  },
+  "graduants": {
+    "1": "Graduants",
+    "2": "Məzunlar",
+    "3": "Выпускники"
+  },
+  "new_graduant": {
+    "1": "New graduant",
+    "2": "Yeni məzun",
+    "3": "Новый выпускник"
+  },
+  "graduants_list": {
+    "1": "Graduants list",
+    "2": "Məzunlar siyahısı",
+    "3": "Список выпускников"
+  },
+  "location": {
+    "1": "Location",
+    "2": "Ünvan",
+    "3": "Адрес"
+  },
+  "event_date": {
+    "1": "Event date",
+    "2": "Tarix",
+    "3": "Дата мероприятия"
+  },
+  "time_from": {
+    "1": "Time from",
+    "2": "Vaxtdan",
+    "3": "Со времени"
+  },
+  "time_to": {
+    "1": "Time to",
+    "2": "Vaxtadək",
+    "3": "До времени"
+  },
+  "events": {
+    "1": "Events",
+    "2": "Tədbirlər",
+    "3": "Мероприятие"
+  },
+  "new_event": {
+    "1": "New event",
+    "2": "Yeni tədbir",
+    "3": "Новое мероприятие"
+  },
+  "events_list": {
+    "1": "Events list",
+    "2": "Tədbirlər siyahısı",
+    "3": "Список мероприятий"
+  },
+  "courses": {
+    "1": "Courses",
+    "2": "Kurslar",
+    "3": "Курсы"
+  },
+  "new_course": {
+    "1": "New course",
+    "2": "Yeni kurs",
+    "3": "Новый курс"
+  },
+  "courses_list": {
+    "1": "Courses list",
+    "2": "Kurslar siyahısı",
+    "3": "Список курсов"
+  },
+  "contacts": {
+    "1": "Contacts",
+    "2": "Əlaqə",
+    "3": "Контакты"
+  },
+  "new_contact": {
+    "1": "New contact",
+    "2": "Yeni əlaqə",
+    "3": "Новый контакт"
+  },
+  "contacts_list": {
+    "1": "Contacts list",
+    "2": "Əlaqə siyahısı",
+    "3": "Список контактов"
+  },
+  "messages": {
+    "1": "Messages",
+    "2": "Mesajlar",
+    "3": "Сообщения"
+  },
+  "message": {
+    "1": "Message",
+    "2": "Mesaj",
+    "3": "Сообщение"
+  },
+  "show_in_main": {
+    "1": "Show in main",
+    "2": "Ana səhifədə göstər",
+    "3": "Покажи на главной"
+  },
+  "our_success": {
+    "1": "Our Success",
+    "2": "Bizim Uğurumuz",
+    "3": "Наш успех"
+  },
+  "get_touch": {
+    "1": "Get in touch",
+    "2": "Əlaqə qurmaq",
+    "3": "Связаться"
+  },
+  "submit_message": {
+    "1": "Submit message",
+    "2": "Mesaj göndər",
+    "3": "Отправить смс"
+  },
+  "links": {
+    "1": "Links",
+    "2": "Keçidlər",
+    "3": "Ссылки"
+  },
+  "online_platform": {
+    "1": "Online platforms",
+    "2": "Onlayn platformalar",
+    "3": "Онлайн платформы"
+  },
+  "more": {
+    "1": "More",
+    "2": "Daha çox",
+    "3": "Больше"
+  },
+  "call_us_via": {
+    "1": "Call us via",
+    "2": "Zəng edin",
+    "3": "Связаться"
+  },
+  "show": {
+    "1": "Show",
+    "2": "Göstər",
+    "3": "Показать"
+  },
+  "full_completion": {
+    "1": "Full completion",
+    "2": "Tam tamamlama",
+    "3": "Полное завершение"
+  },
+  "completion": {
+    "1": "Completion",
+    "2": "Tamamlama",
+    "3": "Завершение"
+  },
+  "or": {
+    "1": "Or",
+    "2": "Və ya",
+    "3": "Или"
+  },
+  "course_details": {
+    "1": "Course details",
+    "2": "Kurs detalları",
+    "3": "Детали курса"
+  },
+  "upload": {
+    "1": "Upload",
+    "2": "Yüklə",
+    "3": "Загрузить"
+  },
+  "uploadVideo": {
+    "1": "Upload video",
+    "2": "Videonu yüklə",
+    "3": "Загрузить видео"
+  },
+  "videos": {
+    "1": "Videos",
+    "2": "Videolar",
+    "3": "Видео"
+  },
+  "find_courses": {
+    "1": "Find courses",
+    "2": "Kurslar tap",
+    "3": "Найди курсы"
+  },
+  "choose_file": {
+    "1": "Choose file",
+    "2": "Faylı seçin",
+    "3": "Выберите файлы"
+  },
+  "file_selected": {
+    "1": "File selected",
+    "2": "Fayl seçildi",
+    "3": "Файл выбран"
+  },
+  "get_another_clip": {
+    "1": "Get another clip",
+    "2": "Başqa klip al",
+    "3": "Получить другой клип"
+  },
+  "enter_label": {
+    "1": "Enter Label",
+    "2": "Teq daxil edin",
+    "3": "Введите ярлык"
+  },
+  "cluster": {
+    "1": "Cluster",
+    "2": "Klaster",
+    "3": "Кластер"
+  },
+  "add_another_cluster": {
+    "1": "Add another cluster",
+    "2": "Başqa klaster əlavə etmək",
+    "3": "Добавить другой кластер"
+  },
+  "add_video": {
+    "1": "Add video",
+    "2": "Video əlavə edin",
+    "3": "Добавить видео"
+  },
+  "train": {
+    "1": "Train",
+    "2": "Öyrət",
+    "3": "Обучить"
+  },
+  "training": {
+    "1": "Training",
+    "2": "Təlim",
+    "3": "Обучение"
+  },
+  "inference": {
+    "1": "Inference",
+    "2": "Nəticə",
+    "3": "Вывод"
+  },
+  "modelTrained": {
+    "1": "Model trained",
+    "2": "Modeli öyrədilib",
+    "3": "Модель обучена"
+  },
+  "selectModel": {
+    "1": "Select model",
+    "2": "Modeli seçin",
+    "3": "Выберите модель"
+  },
+  "fill_all_fields": {
+    "1": "Please, fill in all the fields",
+    "2": "Zəhmət olmasa bütün sahələri doldurun",
+    "3": "Пожалуйста, заполните все поля"
+  },
+  "required_labels": {
+    "1": "Please, select the required labels",
+    "2": "Zəhmət olmasa tələb olunan teqləri seçin",
+    "3": "Пожалуйста, выберите необходимые ярлыки"
+  },
+  "retrain": {
+    "1": "Retrain",
+    "2": "Yenidən öyrətmək",
+    "3": "Переобучить"
+  },
+  "example": {
+    "1": "Example",
+    "2": "Nümunə",
+    "3": "Пример"
+  },
+  "rangeForLevels": {
+    "1": "Range for levels",
+    "2": "Səviyyələr üçün interval",
+    "3": "Диапазон уровней"
+  },
+  "level": {
+    "1": "Level",
+    "2": "Səviyyə",
+    "3": "Уровень"
+  },
+  "value": {
+    "1": "Value",
+    "2": "Dəyər",
+    "3": "Значение"
+  },
+  "low": {
+    "1": "Low",
+    "2": "Aşağı",
+    "3": "Низкий"
+  },
+  "medium": {
+    "1": "Medium",
+    "2": "Orta",
+    "3": "Средний"
+  },
+  "high": {
+    "1": "High",
+    "2": "Yüksək",
+    "3": "Высокий"
+  },
+  "wait": {
+    "1": "Please wait...",
+    "2": "Zəhmət olmasa, gözləyin...",
+    "3": "Пожалуйста, подождите..."
+  },
+  "pıeaseSelectModel": {
+    "1": "Please, select a model",
+    "2": "Zəhmət olmasa, model seçin",
+    "3": "Пожалуйста, выберите модель"
+  },
+  "editLabels": {
+    "1": "Edit labels",
+    "2": "Teqləri redaktə et",
+    "3": "Редактировать ярлыки"
+  },
+  "labels": {
+    "1": "Labels",
+    "2": "Teqlər",
+    "3": "Ярлыки"
+  },
+  "logout": {
+    "1": "Logout",
+    "2": "Çıxış",
+    "3": "Выйти"
+  },
+  "accountSettings": {
+    "1": "Account Settings",
+    "2": "Hesab tənzimləmələri",
+    "3": "Настройки аккаунта"
+  },
+  "close": {
+    "1": "Close",
+    "2": "Bağla",
+    "3": "Закрыть"
+  },
+  "language": {
+    "1": "Language",
+    "2": "Dil",
+    "3": "Язык"
+  },
+  "appearance": {
+    "1": "Appearance",
+    "2": "Görünüş",
+    "3": "Вид"
+  },
+  "login": {
+    "1": "Login",
+    "2": "Daxil ol",
+    "3": "Вход"
+  },
+  "myModels": {
+    "1": "My models",
+    "2": "Mənim modellərim",
+    "3": "Мои модели"
+  },
+  "rename": {
+    "1": "Rename",
+    "2": "Adını dəyişdirin",
+    "3": "Переименовать"
+  },
+  "noData": {
+    "1": "No data",
+    "2": "Məlumat yoxdur",
+    "3": "Нет данных"
+  },
+  "videoIsLoading": {
+    "1": "Video is loading...",
+    "2": "Video yüklənir...",
+    "3": "Видео загружается..."
+  },
+  "videoUploaded": {
+    "1": "Video uploaded!",
+    "2": "Video yükləndi!",
+    "3": "Видео загружено!"
+  },
+  "action": {
+    "1": "Action",
+    "2": "Fəaliyyət",
+    "3": "Действие"
+  },
+  "open": {
+    "1": "Open",
+    "2": "Aç",
+    "3": "Открыть"
+  },
+  "duplicate_labels": {
+    "1": "Duplicate labels are not allowed",
+    "2": "Dublikat teqlərə icazə verilmir",
+    "3": "Дублирование ярлыков не допускается"
+  }
+}
